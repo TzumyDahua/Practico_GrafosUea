@@ -1,0 +1,14 @@
+C:\Users\dtzum\Documents\PracticoGrafosUEA\bin\Debug\net10.0\PracticoGrafosUEA.exe
+C:\Users\dtzum\Documents\PracticoGrafosUEA\bin\Debug\net10.0\PracticoGrafosUEA.deps.json
+C:\Users\dtzum\Documents\PracticoGrafosUEA\bin\Debug\net10.0\PracticoGrafosUEA.runtimeconfig.json
+C:\Users\dtzum\Documents\PracticoGrafosUEA\bin\Debug\net10.0\PracticoGrafosUEA.dll
+C:\Users\dtzum\Documents\PracticoGrafosUEA\bin\Debug\net10.0\PracticoGrafosUEA.pdb
+C:\Users\dtzum\Documents\PracticoGrafosUEA\obj\Debug\net10.0\PracticoGrafosUEA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtzum\Documents\PracticoGrafosUEA\obj\Debug\net10.0\PracticoGrafosUEA.AssemblyInfoInputs.cache
+C:\Users\dtzum\Documents\PracticoGrafosUEA\obj\Debug\net10.0\PracticoGrafosUEA.AssemblyInfo.cs
+C:\Users\dtzum\Documents\PracticoGrafosUEA\obj\Debug\net10.0\PracticoGrafosUEA.csproj.CoreCompileInputs.cache
+C:\Users\dtzum\Documents\PracticoGrafosUEA\obj\Debug\net10.0\PracticoGrafosUEA.dll
+C:\Users\dtzum\Documents\PracticoGrafosUEA\obj\Debug\net10.0\refint\PracticoGrafosUEA.dll
+C:\Users\dtzum\Documents\PracticoGrafosUEA\obj\Debug\net10.0\PracticoGrafosUEA.pdb
+C:\Users\dtzum\Documents\PracticoGrafosUEA\obj\Debug\net10.0\PracticoGrafosUEA.genruntimeconfig.cache
+C:\Users\dtzum\Documents\PracticoGrafosUEA\obj\Debug\net10.0\ref\PracticoGrafosUEA.dll
